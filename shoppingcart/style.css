@@ -291,7 +291,7 @@ main > .product .product-small-imgs img.selected {
 }
 
 main > .product .product-wrapper {
-  padding-right: 15px;
+  padding-left: 15px;
 }
 
 main > .product .price {
